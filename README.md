@@ -1,1 +1,1 @@
-# Simplified Version of a Status Page Application
+# Status Page Application
